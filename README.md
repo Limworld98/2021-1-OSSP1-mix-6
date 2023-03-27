@@ -30,7 +30,7 @@ vscode에서 작성 중인 코드 ---> vscode 확장프로그램 ---> Flask 채�
 4. Judge 클릭하면 서버에서 C++ 코드를 실행시킨 결과를 받아옴
     1. <img src="https://user-images.githubusercontent.com/48395704/115213596-a1d2f980-a13c-11eb-8187-3001511da1d9.png" width="60%" height="60%">
 
-### 실행 gif
+## 실행 gif
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/38485221/227839201-717de9ff-ce9e-422d-b96c-3aecda734d14.gif)
 
