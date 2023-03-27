@@ -5,6 +5,9 @@
 ## 개요
 vscode에서 작성 중인 코드 ---> vscode 확장프로그램 ---> Flask 채점 서버 ---> 채점 프로그램(fork, execl로 생성)
 
+![pipeline](https://user-images.githubusercontent.com/38485221/227839495-3d7a245a-ef50-428b-89b3-3c322f4e3731.png)
+
+
 ### Requirements
 * python3, Flask가 설치된 리눅스 또는 Docker 실행가능 환경
 * Visual Studio Code
@@ -28,6 +31,9 @@ vscode에서 작성 중인 코드 ---> vscode 확장프로그램 ---> Flask 채�
     1. <img src="https://user-images.githubusercontent.com/48395704/115213596-a1d2f980-a13c-11eb-8187-3001511da1d9.png" width="60%" height="60%">
 
 ### 실행 gif
-![vsbuild](https://user-images.githubusercontent.com/48395704/115218171-39d2e200-a141-11eb-9ce4-1afb7e26d772.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/38485221/227839201-717de9ff-ce9e-422d-b96c-3aecda734d14.gif)
+
+
 
 
